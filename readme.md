@@ -1,36 +1,36 @@
-Getting Started
+# Getting Started
 To get started with this project, follow the steps below:
 
-Clone the Project
+# Clone the Project
 
 git clone [repository_url]
 cd [project_directory]
 
-Set Up Virtual Environment
+# Set Up Virtual Environment
 
-For Linux:
+# For Linux:
 
 python3 -m venv venv
 
-For Windows:
+# For Windows:
 
 python -m venv venv
 
-Activate Virtual Environment
+# Activate Virtual Environment
 
-For Linux:
+# For Linux:
 
 source venv/bin/activate
 
-For Windows:
+# For Windows:
 
 venv\Scripts\activate
 
-Install Requirements
+# Install Requirements
 
 pip install -r requirements.txt
 
-Testing
-To run the tests, make sure you have activated the virtual environment, and then run:
+# Testing
+# To run the tests, make sure you have activated the virtual environment, and then run:
 
 pytest test/test_*.py
