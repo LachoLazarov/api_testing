@@ -1,0 +1,16 @@
+2023-12-23 17:16:18 (test_create_task.py) [ INFO] Test execution completed successfully.
+2023-12-23 17:16:18 (test_delete_task.py) [ INFO] Test execution completed successfully.
+2023-12-23 17:16:18 (test_list_user_id.py) [ INFO] Test execution completed successfully.
+2023-12-23 17:16:22 (test_create_task.py) [ERROR] Error in create_task
+2023-12-23 17:16:22 (test_create_task.py) [ERROR] Error in get_task
+2023-12-23 17:16:23 (conftest.py) [ERROR] Error in create_task
+2023-12-23 17:16:24 (test_delete_task.py) [ERROR] Error in delete_task
+2023-12-23 17:16:25 (test_delete_task.py) [ERROR] Error in list_tasks
+2023-12-23 17:16:25 (conftest.py) [ERROR] Error in create_task
+2023-12-23 17:16:26 (test_list_user_id.py) [ERROR] Error in list_tasks
+2023-12-23 17:16:27 (test_status_code.py) [ERROR] Failed to retrieve data from https://todo.pixegami.io. Response code: 200
+2023-12-23 17:16:27 (test_status_code.py) [ERROR] Expected status code 404 for invalid endpoint. Got: 404
+2023-12-23 17:16:28 (test_update_task.py) [ERROR] Error in create_task
+2023-12-23 17:16:29 (test_update_task.py) [ERROR] Error in get_task
+2023-12-23 17:16:30 (test_update_task.py) [ERROR] Error in create_task
+2023-12-23 17:16:30 (test_update_task.py) [ERROR] Error in update_task
